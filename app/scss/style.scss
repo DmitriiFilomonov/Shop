@@ -1,0 +1,38 @@
+@import 'fonts';
+@import 'vars';
+@import 'sprite';
+@import 'mixin';
+@import 'libs';
+@import 'reset';
+@import 'global';
+
+
+@import './components/_header';
+@import './components/_breadcrumbs';
+@import './components/_count';
+
+@import './components/_advantages';
+@import './components/_product-card';
+
+@import './components/index/_promo-slider';
+@import './components/index/_best-products';
+@import './components/index/_promo-banners';
+@import './components/index/_promotions';
+@import './components/index/_partners';
+@import './components/index/_shope-news';
+
+
+@import './components/catalog/_shop-catalog';
+@import './components/catalog/_brand-filter';
+@import './components/catalog/_categories-filter';
+@import './components/catalog/_offer-filter';
+@import './components/catalog/_price-filter';
+@import './components/catalog/_top-filter';
+
+
+@import './components/product page/_product-one';
+@import './components/product page/_modal';
+@import './components/product page/_interest';
+
+@import './components/_footer';
+
